@@ -4,63 +4,48 @@
       <div class="footer-cta pt-5 pb-5">
         <div class="row">
           
-          <div class="col-xs-12 col-md-4 mb-30">
+          <div class="col-xs-4 col-lg-4 col-md-4 mb-30">
             <div class="single-cta">
               <i class="fas fa-phone"></i>
               <div class="cta-text">
-                <h4>Call us</h4>
-                <span>021-687-5321<br />
-                    021-687-5322</span>
+                <h4>Contact me</h4>
+                <span>084-357-8830</span>
               </div>
             </div>
           </div>
-          <div class="col-xs-12 col-lg-4 col-md-6 mb-30">
+          <div class="col-xs-4 col-lg-4 col-md-4  mb-30">
             <div class="footer-widget">
               <div class="footer-widget-heading">
                  <i class="fas fa-link"></i>
                 <h3>Useful Links</h3>
               </div>
               <ul>
-                <li><a href="/">Home</a></li>
+                <li><a href="/landing">Home</a></li>
                 <li><a href="/about">About</a></li>
-                <li><a href="/products">Books</a></li>
-                <li><a href="/about">Our Services</a></li>
-                <li><a href="/contact">Contact us</a></li>
+                <li><a href="/resume">resume</a></li>
+                <li><a href="/skills">Skills</a></li>
+                <li><a href="/projects">Projects</a></li>
+                <li><a href="/testamonials">Testamonials</a></li>
+                <li><a href="/contact">Contact</a></li>
               </ul>
             </div>
           </div>
-          <div class="col-xs-12 col-md-4 mb-30">
+          <div class="col-xs-4 col-lg-4 col-md-4 mb-30">
             <div class="single-cta">
               <i class="far fa-envelope"></i>
               <div class="cta-text">
-                <h4>Mail us</h4>
-                <span>Info@TJLibrary.co.za</span>
+                <h4>Email me @</h4>
+                <span>Taucia.jackson123@gmail.com</span>
               </div>
             </div>
           </div>
         </div>
       </div>
       <div class="footer-content pt-5 ">
-        <div class="row">
-          <div class="col-xs-12 col-lg-6 mb-50">
-            <div class="footer-widget">
-              <div class="footer-logo">
-                <a href="/"
-                  ><img
-                    src="https://i.postimg.cc/wBB9VjyT/tj-Library-removebg-previewcropped.png"
-                    class="img-fluid"
-                    alt="logo"
-                /></a>
-              </div>
-            </div>
-          </div>
-          <div class="col-xs-12 col-lg-6 col-md-6 mb-50">
-            <div class="footer-social-icon">
-              <span>Follow us</span>
-              <a href="#"><i class="fab fa-facebook-f facebook-bg"></i></a>
-              <a href="#"><i class="fab fa-twitter twitter-bg"></i></a>
-              <a href="#"><i class="fab fa-google-plus-g google-bg"></i></a>
-            </div>
+        <div class="row text-center">
+         
+          <div class="col-xs-12 col-lg-12 col-md-12 mb-50">
+            
             <div class="footer-widget">
               <div class="footer-text">
                 
@@ -91,12 +76,12 @@ ul {
   position: relative;
 }
 .footer-cta {
-  border-bottom: 1px solid #8db0b0;
+  border-bottom: 1px solid #dcabdf;
 }
 
 .single-cta i {
   
-  color:  #cde5e5;
+  color:  #dcabdf;
   font-size: 30px;
   float: left;
   margin-top: 8px;
@@ -106,13 +91,13 @@ ul {
   display: inline-block;
 }
 .cta-text h4 {
-  color: #3c5454;
+  color: #dfb3e2;
   font-size: 20px;
   font-weight: 600;
   margin-bottom: 2px;
 }
 .cta-text span {
-  color: #3c5454;
+  color: #dfb3e2;
   font-size: 15px;
 }
 .footer-content {
@@ -136,18 +121,18 @@ ul {
 .footer-text p {
   margin-bottom: 14px;
   font-size: 14px;
-  color: #3c5454;
+  color: #dfb3e2;
   line-height: 28px;
 }
 .footer-social-icon span {
-  color: #3c5454;
+  color: #dfb3e2;
   display: block;
   font-size: 20px;
   font-weight: 700;
   margin-bottom: 20px;
 }
 .footer-social-icon a {
-  color: #3c5454;
+  color: #dfb3e2;
   font-size: 16px;
   margin-right: 15px;
 }
@@ -160,18 +145,18 @@ ul {
 }
 .facebook-bg {
   background: white;
-  color: #3c5454;
+  color: #dfb3e2;
 }
 .twitter-bg {
   background: white;
-  color: #3c5454;
+  color: #dfb3e2;
 }
 .google-bg {
   background: white;
-  color: #3c5454;
+  color: #dfb3e2;
 }
 .footer-widget-heading h3 {
-  color: #3c5454;
+  color: #dfb3e2;
   font-size: 20px;
   font-weight: 600;
   margin-bottom: 40px;
@@ -184,7 +169,7 @@ ul {
   bottom: -15px;
   height: 2px;
   width: 50px;
-  background: #3c5454;
+  background: #dfb3e2;
 }
 .footer-widget ul li {
   display: inline-block;
@@ -193,10 +178,10 @@ ul {
   margin-bottom: 12px;
 }
 .footer-widget ul li a:hover {
-  color: #3c5454;
+  color: #dfb3e2;
 }
 .footer-widget ul li a {
-  color: #3c5454;
+  color: #dfb3e2;
   text-transform: capitalize;
 }
 .subscribe-form {
@@ -207,19 +192,19 @@ ul {
   width: 100%;
   padding: 14px 28px;
   background: white;
-  border: 1px solid #3c5454;
-  color: #3c5454;
+  border: 1px solid #dfb3e2;
+  color: #dfb3e2;
 }
 .subscribe-form button {
   position: absolute;
   right: 0;
-  background: #3c5454;
+  background: #dfb3e2;
   padding: 13px 20px;
-  border: 1px solid #3c5454;
+  border: 1px solid #dfb3e2;
   top: 0;
 }
 .subscribe-form button i {
-  color: #3c5454;
+  color: #dfb3e2;
   font-size: 22px;
   transform: rotate(-6deg);
 }
@@ -230,20 +215,20 @@ ul {
 .copyright-text p {
   margin: 0;
   font-size: 14px;
-  color: #3c5454;
+  color: #dfb3e2;
 }
 .copyright-text p a {
-  color: #3c5454;
+  color: #dfb3e2;
 }
 .footer-menu li {
   display: inline-block;
   margin-left: 20px;
 }
 .footer-menu li:hover a {
-  color: #3c5454;
+  color: #dfb3e2;
 }
 .footer-menu li a {
   font-size: 14px;
-  color: #3c5454;
+  color: #dfb3e2;
 }
 </style>

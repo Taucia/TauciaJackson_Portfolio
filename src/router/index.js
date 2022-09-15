@@ -5,7 +5,7 @@ const routes = [
   {
     path: '/',
     name: 'masterview',
-    component: masterView
+    component: masterview
   },
   
 ]
